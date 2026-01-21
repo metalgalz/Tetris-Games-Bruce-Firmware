@@ -61,7 +61,8 @@ The code automatically adjusts the board position (centering) based on the T-Emb
   * drawBlock(): Draws an 8x8 pixel block to the screen buffer.
 
 ## **📜 License**
-
 This project is open-source. Feel free to use and modify it according to your needs.
 
-*Made with ❤️ using JavaScript for the T-Embed Community.*
+Made with ❤️ using JavaScript for the Bruce Firmware Community.
+
+Github / Discord by : metalgalz
