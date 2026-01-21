@@ -66,3 +66,5 @@ This project is open-source. Feel free to use and modify it according to your ne
 Made with ❤️ using JavaScript for the Bruce Firmware Community.
 
 Github / Discord by : metalgalz
+
+![alt text](https://github.com/metalgalz/Tetris-Games-Bruce-Firmware/blob/main/Lilygo%20T%20Embed.jpg?raw=true)
