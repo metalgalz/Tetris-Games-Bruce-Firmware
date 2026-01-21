@@ -2,7 +2,7 @@
 
 A classic implementation of the Tetris game written in JavaScript, designed specifically to run on microcontrollers and embedded devices with limited resources.
 
-This game is designed for low-resolution screens and is **recommended for use with Lilygo T-Embed** devices running **Bruce Firmware**.
+This game is designed for low-resolution screens and is **recommended for use with Lilygo T-Embed or m5stickcplus2** devices running **Bruce Firmware**.
 
 ## **⚡ Quick Installation (Beginner's Guide)**
 
