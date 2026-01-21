@@ -68,3 +68,4 @@ Made with ❤️ using JavaScript for the Bruce Firmware Community.
 Github / Discord by : metalgalz
 
 ![alt text](https://github.com/metalgalz/Tetris-Games-Bruce-Firmware/blob/main/Lilygo%20T%20Embed.jpg?raw=true)
+![alt text](https://github.com/metalgalz/Tetris-Games-Bruce-Firmware/blob/main/M5StickC%20PLUS2.jpg?raw=true)
