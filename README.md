@@ -13,7 +13,7 @@ Follow these 3 simple steps to start playing immediately:
    * Connect your T-Embed to WiFi (or its Hotspot) to access the **Bruce Web Interface**.  
    * Go to **File Manager**.  
    * Open the /apps folder.  
-   * Upload tetris.js there.  
+   * Upload tetris (Lilygo T Embed) / tetris_games_m5stickcplus2.js (m5stickcplus2)
 3. **Play**:  
    * On your T-Embed screen, open the main menu.  
    * Go to **Files** or **Launcher**.  
